@@ -1,0 +1,16 @@
+{
+    "name": "ObjectPooler.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5da6ab9c282481e418e3f6aa002c193c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
